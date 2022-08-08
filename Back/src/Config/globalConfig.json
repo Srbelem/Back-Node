@@ -1,0 +1,118 @@
+{   "tokenCoins": {
+    "1027": "ETH",
+    "1": "BTC",
+     "2": "LTC",
+    "1100": "XRP"
+
+
+},
+"allCoins": [
+    {
+        "id": 1027,
+        "idbd":14,
+        "flag":true,
+        "name":"Ethereum",
+        "symbol": "ETH",
+        "uid":"ETHUSD",
+        "apicoin":"ETH-USD",
+        "img" : ""
+        
+    },
+    {
+        "id": 1,
+        "idbd":11,
+        "flag":true,
+        "name":"Bitcoin",
+        "symbol": "BTC",
+        "uid":"BTCUSD",
+        "apicoin":"BTC-USD",
+        "img" : ""
+        
+    },
+    {
+        "id": 1100,
+        "idbd":19,
+        "flag":true,
+        "name":"XRP",
+        "symbol": "XRP",
+        "uid":"XRPUSD",
+        "apicoin":"XRP-USD",
+        "img" : ""
+        
+    },
+    {
+        "id": 2,
+        "idbd":13,
+        "flag":true,
+        "name":"Litecoin",
+        "symbol": "LTC",
+        "uid":"LTCUSD",
+        "apicoin":"LTC-USD",
+        "img" : ""
+        
+    },
+    {
+        "id": 54321,
+        "idbd":"",
+        "flag":true,
+        "name":"USD",
+        "symbol": "USD",
+        "uid":"USDBRL",
+        "apicoin":"USD-BRL",
+        "img" : ""
+        
+    },
+    {
+        "id": 825,
+        "idbd":12,
+        "flag":true,
+        "name": "Tether",
+        "symbol": "USDT",
+        "uid":"USDBRLT",
+        "apicoin":"USDT-USD",
+        "img" : ""
+    }
+],
+"gasLimit":45000,
+"tax":0,
+"motherWallet":"",
+"allgetCoins": [
+    {
+        "id": 1027,
+        "idbd":14,
+        "flag":true,
+        "name":"Ethereum",
+        "symbol": "ETH",
+        "uid":"ETHUSD"
+    },
+    {
+        "id": 1100,
+        "idbd":19,
+        "flag":true,
+        "name":"XRP",
+        "symbol": "XRP",
+        "uid":"XRP"
+    },
+    
+    {
+        "id": 1,
+        "idbd":11,
+        "flag":true,
+        "name":"Bitcoin",
+        "symbol": "BTC",
+        "uid":"BTCUSD"
+        
+    },
+    {
+        "id": 2,
+        "idbd":13,
+        "flag":true,
+        "name":"Litecoin",
+        "symbol": "LTC",
+        "uid":"LTC"
+        
+    }
+]
+
+
+}
